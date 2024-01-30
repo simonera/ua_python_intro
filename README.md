@@ -7,4 +7,4 @@ This repo contains notes from the course [Data Science Essentials: From Jupyter 
 - Data Wrangling 101: Pandas in Action
   - See [notes](https://github.com/ua-datalab/Workshops/wiki/Data-Wrangling-101:-Pandas-in-Action), [Jupyter notebook](https://github.com/simonera/ua_python_intro/blob/main/02_1_Data_Wrangling_101_Pandas_in_Action.ipynb)
 - A Probability & Statistics refresher
-  - See [notes](https://github.com/ua-datalab/Workshops/wiki/Statistical-Inference) 
+  - See [notes](https://github.com/ua-datalab/Workshops/wiki/Statistical-Inference), [Jupyter notebook #1](https://github.com/simonera/ua_python_intro/blob/main/03_1_ExploratoryDataAnalysisExample.ipynb)
