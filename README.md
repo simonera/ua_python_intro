@@ -9,4 +9,4 @@ This repo contains notes from the course [Data Science Essentials: From Jupyter 
 - A Probability & Statistics refresher (part 1; up to "Low-code Exploratory Data Tools")
   - See [notes](https://github.com/ua-datalab/Workshops/wiki/Statistical-Inference), [Jupyter notebook #1](https://github.com/simonera/ua_python_intro/blob/main/03_1_ExploratoryDataAnalysisExample.ipynb), and [Jupyter notebook #2](https://github.com/simonera/ua_python_intro/blob/main/03_2_IntroLowCodeEDA.ipynb)
 - A Probability & Statistics refresher (part 2; from "Statistical Inference")
-  - See [notes](https://github.com/ua-datalab/Workshops/wiki/Statistical-Inference), [Jupyter notebook #1](https://github.com/simonera/ua_python_intro/blob/main/04_1_Statistical_Inference.ipynb)
+  - See [notes](https://github.com/ua-datalab/Workshops/wiki/Statistical-Inference), [Jupyter notebook](https://github.com/simonera/ua_python_intro/blob/main/04_1_Statistical_Inference.ipynb)
