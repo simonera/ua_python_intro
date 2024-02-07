@@ -20,4 +20,3 @@ This repo contains notes from the course [Data Science Essentials: From Jupyter 
 - Deep Learning
 - Prompt Engineering
 - AI Tools Landscape
-- 
