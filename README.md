@@ -5,11 +5,11 @@ This repo contains notes from the course [Data Science Essentials: From Jupyter 
 - Introduction to Jupyter Notebooks
   - See [notes](https://github.com/ua-datalab/Workshops/wiki/Introduction-to-Python-for-Data-Science), [Jupyter notebook #1](https://github.com/simonera/ua_python_intro/blob/main/01_1_intro_to_jupyter_notebooks.ipynb), and [Jupyter notebook #2](https://github.com/simonera/ua_python_intro/blob/main/01_2_Intro_to_Python.ipynb)
 - Data Wrangling 101: Pandas in Action
-  - See [notes](https://github.com/ua-datalab/Workshops/wiki/Data-Wrangling-101:-Pandas-in-Action), [Jupyter notebook](https://github.com/simonera/ua_python_intro/blob/main/02_1_Data_Wrangling_101_Pandas_in_Action.ipynb)
+  - See [notes](https://github.com/ua-datalab/Workshops/wiki/Data-Wrangling-101:-Pandas-in-Action) and [Jupyter notebook](https://github.com/simonera/ua_python_intro/blob/main/02_1_Data_Wrangling_101_Pandas_in_Action.ipynb)
 - A Probability & Statistics refresher (part 1; up to "Low-code Exploratory Data Tools")
   - See [notes](https://github.com/ua-datalab/Workshops/wiki/Statistical-Inference), [Jupyter notebook #1](https://github.com/simonera/ua_python_intro/blob/main/03_1_ExploratoryDataAnalysisExample.ipynb), and [Jupyter notebook #2](https://github.com/simonera/ua_python_intro/blob/main/03_2_IntroLowCodeEDA.ipynb)
 - A Probability & Statistics refresher (part 2; from "Statistical Inference")
-  - See [notes](https://github.com/ua-datalab/Workshops/wiki/Statistical-Inference), [Jupyter notebook](https://github.com/simonera/ua_python_intro/blob/main/04_1_Statistical_Inference.ipynb)
+  - See [notes](https://github.com/ua-datalab/Workshops/wiki/Statistical-Inference) and [Jupyter notebook](https://github.com/simonera/ua_python_intro/blob/main/04_1_Statistical_Inference.ipynb)
 - Data Visualization Libraries: Matplotlib
 - Data Visualization Libraries: Seaborn
 - Exploratory Data Analysis
