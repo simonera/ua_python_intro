@@ -11,6 +11,7 @@ This repo contains notes from the course [Data Science Essentials: From Jupyter 
 - A Probability & Statistics refresher (part 2; from "Statistical Inference")
   - See [notes](https://github.com/ua-datalab/Workshops/wiki/Statistical-Inference) and [Jupyter notebook](https://github.com/simonera/ua_python_intro/blob/main/04_1_Statistical_Inference.ipynb)
 - Data Visualization Libraries: Matplotlib
+  - See [notes](https://github.com/ua-datalab/Workshops/wiki/Data-Visualization-Libraries-in-Python), ... 
 - Data Visualization Libraries: Seaborn
 - Exploratory Data Analysis
 - Time Series Analysis
