@@ -13,6 +13,7 @@ This repo contains notes from the course [Data Science Essentials: From Jupyter 
 - Data Visualization Libraries: Matplotlib
   - See [notes](https://github.com/ua-datalab/Workshops/wiki/Data-Visualization-Libraries-in-Python), and [Jupyter notebook](https://github.com/simonera/ua_python_intro/blob/main/05_1_Data_Visualization_with_Python2.ipynb)
 - Data Visualization Libraries: Seaborn
+  - Same notes and Jupyter notebook as previous class
 - Exploratory Data Analysis
 - Time Series Analysis
 - Time Series Forecasting
