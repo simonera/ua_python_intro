@@ -15,7 +15,7 @@ This repo contains notes from the course [Data Science Essentials: From Jupyter 
 - Data Visualization Libraries: Seaborn
   - Same notes and Jupyter notebook as previous class
 - Exploratory Data Analysis
-  - See [notes](https://github.com/ua-datalab/Workshops/wiki/Exploratory-Data-Analysis)
+  - See [notes](https://github.com/ua-datalab/Workshops/wiki/Exploratory-Data-Analysis), [Jupyter notebook #1](https://github.com/simonera/ua_python_intro/blob/main/06_1_ExploratoryDataAnalysisExample.ipynb) (notice: a version of this was already used during the Probability & Statistics refresher-part 1 lecture). 
 - Time Series Analysis
 - Time Series Forecasting
 - Machine Learning with Scikit-Learn
