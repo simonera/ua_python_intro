@@ -9,7 +9,7 @@ This repo contains notes from the course [Data Science Essentials: From Jupyter 
 - A Probability & Statistics refresher (part 1; up to "Low-code Exploratory Data Tools")
   - See [notes](https://github.com/ua-datalab/Workshops/wiki/Statistical-Inference), [Jupyter notebook #1](https://github.com/simonera/ua_python_intro/blob/main/03_1_ExploratoryDataAnalysisExample.ipynb), [Jupyter notebook #2](https://github.com/simonera/ua_python_intro/blob/main/03_2_IntroLowCodeEDA.ipynb), and [recording](https://youtu.be/_Rw5wE-FcEY)
 - A Probability & Statistics refresher (part 2; from "Statistical Inference")
-  - See [notes](https://github.com/ua-datalab/Workshops/wiki/Statistical-Inference) and [Jupyter notebook](https://github.com/simonera/ua_python_intro/blob/main/04_1_Statistical_Inference.ipynb)
+  - See [notes](https://github.com/ua-datalab/Workshops/wiki/Statistical-Inference), [Jupyter notebook](https://github.com/simonera/ua_python_intro/blob/main/04_1_Statistical_Inference.ipynb), and [recording](https://youtu.be/lyHhls1xk-0?si=HLNu_JFm3Rukpvv9)
 - Data Visualization Libraries: Matplotlib
   - See [notes](https://github.com/ua-datalab/Workshops/wiki/Data-Visualization-Libraries-in-Python), and [Jupyter notebook](https://github.com/simonera/ua_python_intro/blob/main/05_1_Data_Visualization_with_Python2.ipynb)
 - Data Visualization Libraries: Seaborn
