@@ -11,11 +11,11 @@ This repo contains notes from the course [Data Science Essentials: From Jupyter 
 - A Probability & Statistics refresher (part 2; from "Statistical Inference")
   - See [notes](https://github.com/ua-datalab/Workshops/wiki/Statistical-Inference), [Jupyter notebook](https://github.com/simonera/ua_python_intro/blob/main/04_1_Statistical_Inference.ipynb), and [recording](https://youtu.be/lyHhls1xk-0?si=HLNu_JFm3Rukpvv9)
 - Data Visualization Libraries: Matplotlib
-  - See [notes](https://github.com/ua-datalab/Workshops/wiki/Data-Visualization-Libraries-in-Python), and [Jupyter notebook](https://github.com/simonera/ua_python_intro/blob/main/05_1_Data_Visualization_with_Python2.ipynb)
+  - See [notes](https://github.com/ua-datalab/Workshops/wiki/Data-Visualization-Libraries-in-Python), [Jupyter notebook](https://github.com/simonera/ua_python_intro/blob/main/05_1_Data_Visualization_with_Python2.ipynb), and [recording](https://youtu.be/B7W3fDJrjRU)
 - Data Visualization Libraries: Seaborn
-  - Same notes and Jupyter notebook as previous class
+  - Same notes and Jupyter notebook as previous class; see [recording](https://youtu.be/LkE22G5B-rE)
 - Exploratory Data Analysis
-  - See [notes](https://github.com/ua-datalab/Workshops/wiki/Exploratory-Data-Analysis), [Jupyter notebook #1](https://github.com/simonera/ua_python_intro/blob/main/06_1_ExploratoryDataAnalysisExample.ipynb), this other set of [notes](https://github.com/ua-datalab/Workshops/wiki/Low%E2%80%90code-Exploratory-Data-Analysis-Tools) and [Jupyter notes #2](https://github.com/simonera/ua_python_intro/blob/main/06_2_IntroLowCodeEDA.ipynb). Notice: these Jupyter notes were already used during the Probability & Statistics refresher-part 1 lecture. 
+  - See [notes](https://github.com/ua-datalab/Workshops/wiki/Exploratory-Data-Analysis), [Jupyter notebook #1](https://github.com/simonera/ua_python_intro/blob/main/06_1_ExploratoryDataAnalysisExample.ipynb), this other set of [notes](https://github.com/ua-datalab/Workshops/wiki/Low%E2%80%90code-Exploratory-Data-Analysis-Tools), [Jupyter notes #2](https://github.com/simonera/ua_python_intro/blob/main/06_2_IntroLowCodeEDA.ipynb), and [recording](https://youtu.be/VJZC9fApe2k). Notice: these Jupyter notes were already used during the Probability & Statistics refresher-part 1 lecture. 
 - Time Series Analysis
 - Time Series Forecasting
 - Machine Learning with Scikit-Learn
