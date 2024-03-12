@@ -17,7 +17,7 @@ This repo contains notes from the course [Data Science Essentials: From Jupyter 
 - Exploratory Data Analysis
   - See [notes](https://github.com/ua-datalab/Workshops/wiki/Exploratory-Data-Analysis), [Jupyter notebook #1](https://github.com/simonera/ua_python_intro/blob/main/06_1_ExploratoryDataAnalysisExample.ipynb), this other set of [notes](https://github.com/ua-datalab/Workshops/wiki/Low%E2%80%90code-Exploratory-Data-Analysis-Tools), [Jupyter notes #2](https://github.com/simonera/ua_python_intro/blob/main/06_2_IntroLowCodeEDA.ipynb), and [recording](https://youtu.be/VJZC9fApe2k). Notice: these Jupyter notes were already used during the Probability & Statistics refresher-part 1 lecture. 
 - Time Series Analysis
-  - See [notes](https://github.com/clizarraga-UAD7/Workshops/wiki/Introduction-to-Time-Series-Analysis)
+  - See [notes](https://github.com/clizarraga-UAD7/Workshops/wiki/Introduction-to-Time-Series-Analysis) and [Jupyter notebook](https://github.com/simonera/ua_python_intro/blob/main/07_1_IntroTimeSeriesAnalysis.ipynb)
 - Time Series Forecasting
 - Machine Learning with Scikit-Learn
 - Natural Language Processing
