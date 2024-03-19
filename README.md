@@ -19,6 +19,7 @@ This repo contains notes from the course [Data Science Essentials: From Jupyter 
 - Time Series Analysis
   - See [notes](https://github.com/clizarraga-UAD7/Workshops/wiki/Introduction-to-Time-Series-Analysis) and [Jupyter notebook](https://github.com/simonera/ua_python_intro/blob/main/07_1_IntroTimeSeriesAnalysis.ipynb)
 - Time Series Forecasting
+  - See [presentation](https://github.com/nextgensh/datalab-teaching-timeseries2/blob/main/presentation/timeseries-forecasting2.pptx) and [Jupyter notebook](https://github.com/nextgensh/datalab-teaching-timeseries/blob/main/autoregression.ipynb)
 - Machine Learning with Scikit-Learn
 - Natural Language Processing
 - Deep Learning
