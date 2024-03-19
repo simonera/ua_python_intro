@@ -1,6 +1,6 @@
 # UA Data Science Essentials: From Jupyter to AI Tools
 
-This repo contains notes from the course [Data Science Essentials: From Jupyter to AI Tools](https://github.com/ua-datalab/Workshops/wiki), hosted by the [Data Science Institute at the University of Arizona](https://datascience.arizona.edu/).
+This repo contains notes from the course [Data Science Essentials: From Jupyter to AI Tools](https://github.com/ua-datalab/Workshops/wiki), offered by the [Data Science Institute at the University of Arizona](https://datascience.arizona.edu/). The original materials (handouts, Jupyter notebooks, presentations) were created by faculty and graduate students affiliated with the UA Data Science Institute. 
 
 - Introduction to Jupyter Notebooks
   - See [notes](https://github.com/ua-datalab/Workshops/wiki/Introduction-to-Python-for-Data-Science), [Jupyter notebook #1](https://github.com/simonera/ua_python_intro/blob/main/01_1_intro_to_jupyter_notebooks.ipynb), [Jupyter notebook #2](https://github.com/simonera/ua_python_intro/blob/main/01_2_Intro_to_Python.ipynb), and meeting [recording](https://youtu.be/QrbwPK5OWqA)
@@ -19,7 +19,7 @@ This repo contains notes from the course [Data Science Essentials: From Jupyter 
 - Time Series Analysis
   - See [notes](https://github.com/clizarraga-UAD7/Workshops/wiki/Introduction-to-Time-Series-Analysis) and [Jupyter notebook](https://github.com/simonera/ua_python_intro/blob/main/07_1_IntroTimeSeriesAnalysis.ipynb)
 - Time Series Forecasting
-  - See [presentation](https://github.com/simonera/ua_python_intro/blob/main/08_1_timeseries-forecasting2.pdf) and [Jupyter notebook](https://github.com/simonera/ua_python_intro/blob/main/08_1_autoregression_edited.ipynb). See also this additional [notebook](https://github.com/simonera/ua_python_intro/blob/main/08_3_basicLSTM.ipynb).
+  - See [presentation](https://github.com/simonera/ua_python_intro/blob/main/08_1_timeseries-forecasting2.pdf) and [Jupyter notebook](https://github.com/simonera/ua_python_intro/blob/main/08_1_autoregression_edited.ipynb). See also this additional [notebook](https://github.com/simonera/ua_python_intro/blob/main/08_3_basicLSTM.ipynb). All orginal materials created by Shravan Aras. 
 - Machine Learning with Scikit-Learn
 - Natural Language Processing
 - Deep Learning
