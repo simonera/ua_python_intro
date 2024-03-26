@@ -21,7 +21,7 @@ This repo contains notes from the course [Data Science Essentials: From Jupyter 
 - Time Series Forecasting
   - See [presentation](https://github.com/simonera/ua_python_intro/blob/main/08_1_timeseries-forecasting2.pdf) and [Jupyter notebook](https://github.com/simonera/ua_python_intro/blob/main/08_2_autoregression_edited.ipynb). See also this additional [notebook](https://github.com/simonera/ua_python_intro/blob/main/08_3_basicLSTM.ipynb). All original materials created by Shravan Aras. 
 - Machine Learning with Scikit-Learn
-  - See [notes](https://github.com/ua-datalab/Workshops/wiki/Machine-Learning-Basics:-scikit%E2%80%90learn-Unveiled), see also these [worked examples from scikit-learn](https://scikit-learn.org/stable/auto_examples/index.html) and [data sets to practice](https://scikit-learn.org/stable/datasets.html). Jupyter notebook is available [here](https://github.com/simonera/ua_python_intro/blob/main/09_1_Intro_Classification.ipynb). 
+  - See [notes](https://github.com/ua-datalab/Workshops/wiki/Machine-Learning-Basics:-scikit%E2%80%90learn-Unveiled), see also these [worked examples from scikit-learn](https://scikit-learn.org/stable/auto_examples/index.html) and [data sets to practice](https://scikit-learn.org/stable/datasets.html). A Jupyter notebook is available [here](https://github.com/simonera/ua_python_intro/blob/main/09_1_Intro_Classification.ipynb) for classification models. 
 - Natural Language Processing
 - Deep Learning
 - Prompt Engineering
