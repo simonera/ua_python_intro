@@ -29,3 +29,4 @@ This repo contains notes from the course [Data Science Essentials: From Jupyter 
 - Prompt Engineering
   - See [notes](https://github.com/ua-datalab/Workshops/wiki/Prompt-Engineering-Basics). 
 - AI Tools Landscape
+  - See [notes](https://github.com/ua-datalab/Workshops/wiki/AI-Tools-Landscape).
