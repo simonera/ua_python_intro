@@ -27,4 +27,5 @@ This repo contains notes from the course [Data Science Essentials: From Jupyter 
 - Deep Learning
   - See [presentation](https://github.com/simonera/ua_python_intro/blob/main/11_1_Lecture_Deep_Dive_DL.pdf), [Jupyter notebook](https://github.com/simonera/ua_python_intro/blob/main/11_2_llama_chatbot.ipynb), and [recording](https://youtu.be/PadNw1ZwWfQ). All original materials created by Mithun Paul. 
 - Prompt Engineering
+  - See [notes](https://github.com/ua-datalab/Workshops/wiki/Prompt-Engineering-Basics). 
 - AI Tools Landscape
